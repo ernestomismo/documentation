@@ -14,4 +14,12 @@ Para ver el estado del proyecto:
 Para añadir un archivo:
 
 	git add <nombre del archivo>
+	
+Para añadir un archivo:
+
+	git add <nombre del archivo>
+
+	git commit -m "first commit"
+	git remote add origin https://github.com/ernestomismo/documentation.git
+	git push -u origin master
 
